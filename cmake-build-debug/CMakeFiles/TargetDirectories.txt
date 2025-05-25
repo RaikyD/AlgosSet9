@@ -1,0 +1,3 @@
+/Users/gurshhh/Desktop/University/2 year/Alg and Data structure/Set9/cmake-build-debug/CMakeFiles/Set9.dir
+/Users/gurshhh/Desktop/University/2 year/Alg and Data structure/Set9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gurshhh/Desktop/University/2 year/Alg and Data structure/Set9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
